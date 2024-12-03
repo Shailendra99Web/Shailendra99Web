@@ -18,12 +18,34 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 ### Databases
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) |
 |---|---|---|
-
+<!--
 ### Tools & Platforms
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | ![PuTTY](https://img.shields.io/badge/-PuTTY-00AA00?style=flat&logo=putty&logoColor=white) | ![FileZilla](https://img.shields.io/badge/-FileZilla-006182?style=flat&logo=filezilla&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
 | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |  |  |  |  |
+-->
 
+### Tools & Platforms
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-PuTTY-00AA00?style=flat&logo=putty&logoColor=white" alt="PuTTY"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-FileZilla-006182?style=flat&logo=filezilla&logoColor=white" alt="FileZilla"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lightsail"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"></td>
+  </tr>
+</table>
 
 
 ### Other Skills
