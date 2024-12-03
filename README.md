@@ -220,6 +220,11 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Shailendra99Web&theme=github)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=radical)
+
+
 ---
 
 ## 🌐 Connect with Me  
