@@ -1,3 +1,5 @@
+<a href="https://github.com/Shailendra99Web"><img align="center" alt="profile" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFubb1MHVNxM6yyiYV-cTSKxuZSWUckDbS3tQC9qTIF0sDlEHrMfSz7sx_YrUsuAjqbAqhAn_hoogM5BqgRIDjZ3RPZPD7H-3_UurBsnYsPhaEjbE6saFe_K0rKIex_gQT86Qk65tRRKz56xm3L2jzXQtqhofNPaZ2njpvY09eoNSqNceuSpfAYB0_kib9/s16000/git%20pro.png"></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=5000&color=461DF7&background=FFFFFF6E&center=true&vCenter=true&width=435&lines=%F0%9F%99%83+Hi%2C+I'm+Shailendra!++" alt="Typing SVG" /></a>
 
 A passionate **Full Stack Web Developer** skilled in crafting scalable, maintainable, and efficient web applications. With expertise in modern technologies and a strong focus on clean code, I build impactful digital solutions with a seamless user experience.
@@ -27,14 +29,17 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=tokyonight" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=tokyonight"/>
 </div>
 
 ---
