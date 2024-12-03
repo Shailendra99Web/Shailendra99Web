@@ -28,20 +28,14 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=aura" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=aura"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=aura"/>
 </div>
 
