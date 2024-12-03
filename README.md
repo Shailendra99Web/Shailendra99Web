@@ -197,37 +197,29 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white) | 
 |---|---|---|---|---|
 
----
-
 ### Frameworks
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) |
 |---|---|---|---|---|---|
-
----
 
 ### Databases
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) |
 |---|---|---|
 
----
-
 ### Tools & Platforms
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) | ![PuTTY](https://img.shields.io/badge/-PuTTY-00AA00?style=flat&logo=putty&logoColor=white) | ![FileZilla](https://img.shields.io/badge/-FileZilla-006182?style=flat&logo=filezilla&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 |---|---|---|---|---|---|---|---|---|---|
 
----
-
-### **Other Skills**
-| Skill               | Icon                                                                                       |
-|---------------------|--------------------------------------------------------------------------------------------|
-| MERN Stack          | ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-4e2a84?style=flat&logo=mongodb&logoColor=white) |
-| REST API            | ![REST API](https://img.shields.io/badge/-REST%20API-25B5D8?style=flat&logo=api&logoColor=white) |
-| Pug.js              | ![Pug.js](https://img.shields.io/badge/-Pug.js-8B6F4D?style=flat&logo=pug&logoColor=white) |
-| Responsive Web Design | ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-2196F3?style=flat&logo=html5&logoColor=white) |
-| Strapi              | ![Strapi](https://img.shields.io/badge/-Strapi-2E7D32?style=flat&logo=strapi&logoColor=white) |
-| Blogger             | ![Blogger](https://img.shields.io/badge/-Blogger-F57C00?style=flat&logo=blogger&logoColor=white) |
-| SEO                 | ![SEO](https://img.shields.io/badge/-SEO-FF4F00?style=flat&logo=seo&logoColor=white) |
-| AI                  | ![AI](https://img.shields.io/badge/-AI-00B0FF?style=flat&logo=ai&logoColor=white) |
+### **Other Skills**  
+| **Skill**               | **Icon**                                                                                     |
+|-------------------------|----------------------------------------------------------------------------------------------|
+| **MERN Stack**           | ![MERN](https://img.shields.io/badge/-MERN%20Stack-00A300?style=flat&logo=react&logoColor=white) |
+| **REST API**             | ![REST API](https://img.shields.io/badge/-REST%20API-25D366?style=flat&logo=api&logoColor=white)  |
+| **Pug.js**               | ![Pug.js](https://img.shields.io/badge/-Pug.js-000000?style=flat&logo=pug&logoColor=white)        |
+| **Responsive Design**    | ![Responsive](https://img.shields.io/badge/-Responsive%20Design-4CAF50?style=flat&logo=html5&logoColor=white) |
+| **Strapi**               | ![Strapi](https://img.shields.io/badge/-Strapi-2E7D32?style=flat&logo=strapi&logoColor=white)      |
+| **Blogger**              | ![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=flat&logo=blogger&logoColor=white)  |
+| **SEO**                  | ![SEO](https://img.shields.io/badge/-SEO-ff0000?style=flat&logo=searchengineland&logoColor=white) |
+| **AI**                   | ![AI](https://img.shields.io/badge/-AI-ff6f00?style=flat&logo=openai&logoColor=white)            |
 
 ---
 
