@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Shailendra!  
+<!--# 👋 Hi, I'm Shailendra!  
 
 A passionate **Full Stack Web Developer** skilled in crafting scalable, maintainable, and efficient web applications. With expertise in modern technologies and a strong focus on clean code, I build impactful digital solutions with a seamless user experience.
+-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=4C07F7&background=FFFFFF6E&repeat=false&width=435&lines=Hi+there%2C++Hope+your+are+doing+well.+A+passionate+Full+Stack+Web+Developer+skilled+in+crafting+scalable%2C+maintainable%2C+and+efficient+web+applications.+With+expertise+in+modern+technologies+and+a+strong+focus+on+clean+code%2C+I+build+impactful+digital+solutions+with+a+seamless+user+experience." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=4999&pause=500&color=4C07F7&background=FFFFFF6E&center=true&repeat=false&width=435&lines=Hi+there%2C;++Hope+your+are+doing+well.;I'm+Shailendra!" alt="Typing SVG" /></a>
 
 ---
 
