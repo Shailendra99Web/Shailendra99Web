@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1002&color=461DF7&background=FFFFFF6E&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Shailendra!++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1002&color=461DF7&background=FFFFFF6E&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%99%83+Hi%2C+I'm+Shailendra!++" alt="Typing SVG" /></a>
 
 A passionate **Full Stack Web Developer** skilled in crafting scalable, maintainable, and efficient web applications. With expertise in modern technologies and a strong focus on clean code, I build impactful digital solutions with a seamless user experience.
 
@@ -43,7 +43,7 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 ![Shailendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=radical)
--->
+
 ---
 
 ## 🌐 Connect with Me  
@@ -55,7 +55,7 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 | **Stack Overflow** | [Shailendra on Stack Overflow](https://stackoverflow.com/users/22307959/shailendra)                |
 | **Freelancing**  | [Freelancer](https://www.freelancer.com/u/Shailu99singh)                                             |
 | **Upwork**       | [Upwork](https://www.upwork.com/freelancers/shailendras17)                                           |
-
+-->
 ---
 
 ## 💡 Quote
