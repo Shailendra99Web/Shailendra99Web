@@ -20,6 +20,11 @@
 - [OCD FIGHT](https://ocd-fight.vercel.app)
 -->
 
+
+
+
+<!--
+
 # 👋 Hi, I'm Shailendra!
 
 I am a **Full Stack Web Developer** passionate about creating scalable and efficient web applications. I specialize in **Next.js**, **React**, and other modern technologies.
@@ -65,4 +70,81 @@ I am a **Full Stack Web Developer** passionate about creating scalable and effic
 
 ## 💡 Quote
 
-> "The best way to predict the future is to create it."
+> "The best way to predict the future is to create it." 
+
+--> 
+
+
+
+
+
+
+
+# 👋 Hi there, I'm Shailendra!  
+
+I'm a **Full Stack Web Developer** passionate about building scalable, maintainable, and efficient applications. My expertise spans a wide range of **Frontend**, **Backend**, and **DevOps** technologies. I strive for clean code and creating impactful user experiences.
+
+---
+
+## 🛠️ My Skills  
+
+### **Languages**
+| **Frontend** | **Backend** |
+|--------------|-------------|
+| ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white) | |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) | |
+| ![SASS](https://img.shields.io/badge/-SASS-pink?style=flat&logo=sass&logoColor=white) | |
+
+---
+
+### **Frameworks & Libraries**
+| **Frontend Frameworks** | **Backend Frameworks** | **Styling Frameworks** |
+|--------------------------|-------------------------|-------------------------|
+| ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white) | | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal?style=flat&logo=tailwind-css&logoColor=white) |
+| ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white) | | |
+
+---
+
+### **Databases**
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=white) |
+
+---
+
+### **Tools**
+| **Development Tools** | **DevOps Tools** | **Design Tools** |
+|------------------------|------------------|------------------|
+| ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white) | ![FileZilla](https://img.shields.io/badge/-FileZilla-red?style=flat&logo=filezilla&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white) |
+| ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white) | ![PuTTY](https://img.shields.io/badge/-PuTTY-green?style=flat&logo=putty&logoColor=white) | |
+| ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white) | | |
+
+---
+
+### **Platforms & Hosting**
+| ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white) | ![Blogger](https://img.shields.io/badge/-Blogger-red?style=flat&logo=blogger&logoColor=white) |
+
+---
+
+### **Other Technologies**
+- MERN Stack  
+- RestAPI  
+- Pug.js  
+- SEO  
+- AI  
+- Responsive Web Design  
+
+---
+
+## 📊 GitHub Stats  
+![Shailendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical)
+
+---
+
+## 📬 Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shailendra-singh-verma-437592282/)
+- 📧 shailendra@example.com  
+- 🐦 [Twitter](https://twitter.com/shailendra)
+- 🌟 [Portfolio](https://shailendra99web.github.io/Portfolio/)
+
+---
