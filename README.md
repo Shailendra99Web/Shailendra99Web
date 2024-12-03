@@ -20,11 +20,9 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 
 ### Tools & Platforms
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
-|---|---|---|---|---|
 | ![PuTTY](https://img.shields.io/badge/-PuTTY-00AA00?style=flat&logo=putty&logoColor=white) | ![FileZilla](https://img.shields.io/badge/-FileZilla-006182?style=flat&logo=filezilla&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
-|---|---|---|---|---|
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)|
-|---|
+|---|---|---|---|---|
 
 
 ### Other Skills
