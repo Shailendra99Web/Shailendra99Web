@@ -19,8 +19,15 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 |---|---|---|
 
 ### Tools & Platforms
-| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) | ![PuTTY](https://img.shields.io/badge/-PuTTY-00AA00?style=flat&logo=putty&logoColor=white) | ![FileZilla](https://img.shields.io/badge/-FileZilla-006182?style=flat&logo=filezilla&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-|---|---|---|---|---|---|---|---|---|---|---|
+| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+|---|---|---|---|---|
+
+| ![PuTTY](https://img.shields.io/badge/-PuTTY-00AA00?style=flat&logo=putty&logoColor=white) | ![FileZilla](https://img.shields.io/badge/-FileZilla-006182?style=flat&logo=filezilla&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![AWS Lightsail](https://img.shields.io/badge/-AWS%20Lightsail-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
+|---|---|---|---|---|
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)|
+|---|
+
 
 ### Other Skills
 ![MERN](https://img.shields.io/badge/-MERN%20Stack-00A300?style=flat&logo=react&logoColor=white) | ![REST API](https://img.shields.io/badge/-REST%20API-25D366?style=flat&logo=api&logoColor=white)  | ![Pug.js](https://img.shields.io/badge/-Pug.js-000000?style=flat&logo=pug&logoColor=white) | ![Responsive](https://img.shields.io/badge/-Responsive%20Design-4CAF50?style=flat&logo=html5&logoColor=white) | ![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=flat&logo=blogger&logoColor=white)  | ![SEO](https://img.shields.io/badge/-SEO-ff0000?style=flat&logo=searchengineland&logoColor=white) | ![AI](https://img.shields.io/badge/-AI-ff6f00?style=flat&logo=openai&logoColor=white) |
@@ -32,6 +39,9 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical" width="45%" height="200" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical" width="45%" height="200"/>
 </div>
 
@@ -43,18 +53,6 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 ![Shailendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=radical)
-
----
-
-## 🌐 Connect with Me  
-| Platform         | Link                                                                                                  |
-|------------------|------------------------------------------------------------------------------------------------------|
-| **Instagram**    | [@shailendra_aj_singh](https://www.instagram.com/shailendra_aj_singh/)                                |
-| **Portfolio**    | [My Portfolio](https://shailendra99web.github.io/Portfolio/)                                         |
-| **Email**        | [shailendraajsingh@gmail.com](mailto:shailendraajsingh@gmail.com)                                    |
-| **Stack Overflow** | [Shailendra on Stack Overflow](https://stackoverflow.com/users/22307959/shailendra)                |
-| **Freelancing**  | [Freelancer](https://www.freelancer.com/u/Shailu99singh)                                             |
-| **Upwork**       | [Upwork](https://www.upwork.com/freelancers/shailendras17)                                           |
 -->
 ---
 
