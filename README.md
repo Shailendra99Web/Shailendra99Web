@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1002&color=461DF7&background=FFFFFF6E&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%99%83+Hi%2C+I'm+Shailendra!++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1002&color=461DF7&background=FFFFFF6E&center=true&vCenter=true&width=435&lines=%F0%9F%99%83+Hi%2C+I'm+Shailendra!++" alt="Typing SVG" /></a>
 
 A passionate **Full Stack Web Developer** skilled in crafting scalable, maintainable, and efficient web applications. With expertise in modern technologies and a strong focus on clean code, I build impactful digital solutions with a seamless user experience.
 
