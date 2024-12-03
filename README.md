@@ -144,6 +144,11 @@ A passionate **Full Stack Web Developer** skilled in crafting scalable, maintain
 
 ![Shailendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra99Web&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra99Web&layout=compact&theme=radical" width="45%" />
+</p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shailendra99Web&theme=radical)
 
 ---
